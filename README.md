@@ -1,2 +1,5 @@
-sandbox
-=======
+# sandbox
+
+This is a sandbox repository.
+
+@akinomaeni
